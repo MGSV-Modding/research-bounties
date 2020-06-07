@@ -1,4 +1,4 @@
-# MGSV Research Bounties
+# Metal Gear Solid V Research Bounties
 
 This repository will track research-related [Bountysource.com](https://www.bountysource.com/) bounties, submitted as **[Issues](https://github.com/MGSV-Modding/research-bounties/labels/bounty)** by the initial Backers.
 
